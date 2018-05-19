@@ -6,7 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
-	<h1>Hola Mundo!!!</h1>
+<body dir="ltr">
+	<h1>Hola Mundo!!!</h1><br>
+	<h3>Por que?</h3>
 </body>
 </html>
